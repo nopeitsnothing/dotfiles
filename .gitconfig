@@ -1,7 +1,7 @@
 [user]
 	name = nopenothinghere
-	email = xxx
-	signingKey = xxx
+	email = nopenothinghere@proton.me
+	signingKey = 021AB6B6A6CB2C337
 
 [alias]
 	# short aliases
